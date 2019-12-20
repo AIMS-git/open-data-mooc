@@ -63,6 +63,10 @@ As mentioned in the introduction, this e-learning course is the result of a coll
 * Valeria Pesce, FAO
 * Rob Lokers, WUR
 
+## How to cite this course? 
+
+AIMS. \(2019, December 20\). GODAN Action Open Data Management in Agriculture and Nutrition Course \(Version v1.0\). Zenodo. [http://doi.org/10.5281/zenodo.3588148](http://doi.org/10.5281/zenodo.3588148)
+
 ## Contact information
 
 For your questions and inquires, please contact us at [godanaction@godan.info](mailto:godanaction@godan.info). Project website is accessible at [https://www.godan.info/pages/action](https://www.godan.info/pages/action). 
