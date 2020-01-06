@@ -12,7 +12,7 @@ It aims to strengthen the capacity of data producers and data consumers to manag
 
 > GODAN Action is a three-year project UK’s Department for International Development to enable data users, producers and intermediaries to engage effectively with open data and maximise its potential for impact in the agriculture and nutrition sectors. In particular we work to strengthen capacity, to promote common standards and best practice and to improve how we measure impact. \[www.godan.info\]
 
-![](.gitbook/assets/godan_ukaid.jpg)
+![GODAN Action is funded by UK&#x2019;s Department for International Development ](.gitbook/assets/godan_ukaid.jpg)
 
 
 

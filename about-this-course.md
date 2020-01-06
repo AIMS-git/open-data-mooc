@@ -58,10 +58,12 @@ As mentioned in the introduction, this e-learning course is the result of a coll
 * Imma Subirats, FAO
 * Jessica Meeker, IDS
 * Laura Meggiolaro, Land Portal
-* Lisette Meji, Land Portal
+* Lisette Mey, Land Portal
 * Pauline L'Henaff, ODI
 * Valeria Pesce, FAO
 * Rob Lokers, WUR
+
+![GODAN Action is funded by UK&#x2019;s Department for International Development](.gitbook/assets/ukaid-godan.jpg)
 
 ## How to cite this course? 
 
