@@ -2,7 +2,7 @@
 
 The GODAN Action network developed a free MOOC \(Massive Open Online Course\) on Open Data Data Management in Agriculture and Nutrition. The course was delivered five times from November 2017 to November 2018. 
 
-This e-learning course is the result of a collaboration between GODAN Action partners, including [Wageningen Environmental Research](https://www.godan.info/pages/action), [AgroKnow](https://www.agroknow.com), [AidData](https://www.aiddata.org), t[he Food and Agriculture Organization of the United Nations \(FAO\)](http://www.fao.org/home/en/), [the Global Forum on Agricultural Research \(GFAR\)](https://www.gfar.net), and [the Institute of Development Studies \(IDS\)](https://www.ids.ac.uk), [the Land Portal](https://landportal.org), [the Open Data Institute \(ODI\)](https://theodi.org) and [the Technical Centre for Agriculture and Rural Cooperation \(CTA\)](https://www.cta.int/en).
+This e-learning course is the result of a collaboration between GODAN Action partners, including [Wageningen Environmental Research](https://www.godan.info/pages/action), [AgroKnow](https://www.agroknow.com), [AidData](https://www.aiddata.org), [the Food and Agriculture Organization of the United Nations \(FAO\)](http://www.fao.org/home/en/), [the Global Forum on Agricultural Research \(GFAR\)](https://www.gfar.net), [the Institute of Development Studies \(IDS\)](https://www.ids.ac.uk), [the Land Portal](https://landportal.org), [the Open Data Institute \(ODI\)](https://theodi.org) and [the Technical Centre for Agriculture and Rural Cooperation \(CTA\)](https://www.cta.int/en).
 
 {% embed url="https://vimeo.com/110800848" caption="What can open data do for you? by the ODI" %}
 
